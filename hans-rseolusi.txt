@@ -1,3 +1,5 @@
 Hans Resolusi
 - project aplikasi web 
 - msdm presentasi
+- Belajar JS lebih dalam
+- belajar PHP
